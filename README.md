@@ -1,26 +1,20 @@
 # react-native-sha1-lib
 
-SHA1
-
 ## Installation
 
 ```sh
-npm install react-native-sha1-lib
+npm install react-native-sha-lib
 ```
 
 ## Usage
 
 ```js
-import Sha1Lib from "react-native-sha1-lib";
+import ShaLib from "react-native-sha-lib";
 
 // ...
 
-const result = await Sha1Lib.multiply(3, 7);
+const result = await ShaLib.sha1('string');
 ```
-
-## Contributing
-
-See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the repository and the development workflow.
 
 ## License
 

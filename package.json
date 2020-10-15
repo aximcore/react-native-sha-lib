@@ -1,5 +1,5 @@
 {
-  "name": "react-native-sha1-lib",
+  "name": "react-native-sha-lib",
   "version": "0.1.0",
   "description": "SHA",
   "main": "lib/commonjs/index",
